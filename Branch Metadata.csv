@@ -1,0 +1,25 @@
+﻿Table Meta-Data
+
+Table Name: Branch_Details
+
+Columns:
+
+branchCode
+Data Type: Integer
+Description: Unique identifier for each branch
+Example: 2
+
+branchName
+Data Type: String (Text)
+Description: Name of the branch
+Example: BULA BRANCH
+
+Store Floor Area
+Data Type: Float
+Description: The total floor area of the branch's store in square meters
+Example: 164.96
+
+Operating Expenses
+Data Type: Float
+Description: The average Monthly Operating Expenses for each branch wit negligible variance Month on Month
+Example: 534447
